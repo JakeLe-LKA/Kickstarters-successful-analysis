@@ -90,7 +90,7 @@ Status is set to:
 
 ## Stategic recommendations
 
-To shorten the time to success in kickstarter campaigns, creators should:
+Base on the above insights, in order to shorten the time to success in kickstarter campaigns, creators should:
 - Focus on increasing the **number of backers** and **total pledged amount** early to build momentum.
 - Provide **frequent project updates** to maintain trust and engagement.
 - Use **clear visuals** and **comprehensive descriptions** to help backers quickly understand the project.
