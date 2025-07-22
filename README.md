@@ -14,7 +14,7 @@ The data Kickstarter dataset, originally curated by the Virginia Tech DMKD lab. 
 - Number of variables: 56 features
   - 2 survival core fields: **time to success**, **event**
   - 15 category dummies: art, comics, crafts, dance, design, fashion, film & video, food, game, journalism, music, photography, publishing, technology, theater
-  - 6 currency dummies: AUD, CAD, EUR, GPB. NZD, USD
+  - 6 currency dummies: AUD, CAD, EUR, GPB, NZD, USD
   - 27 campaign- and creator-level features
   - 6 network aggregates
  
