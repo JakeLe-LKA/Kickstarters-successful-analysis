@@ -85,3 +85,15 @@ Status is set to:
   - rewards: A variety of reward tiers makes the project more appealing to different audiences.
   - faqs: Addressing common questions removes uncertainty, helping supporters decide faster.
   - words_description: Clear and complete descriptions improve understanding and reduce hesitation.
+
+---
+
+## Stategic recommendations
+
+To shorten the time to success in kickstarter campaigns, creators should:
+- Focus on increasing the **number of backers** and **total pledged amount** early to build momentum.
+- Provide **frequent project updates** to maintain trust and engagement.
+- Use **clear visuals** and **comprehensive descriptions** to help backers quickly understand the project.
+- Avoid overloading the **risks and challenges** section, which may deter potential supporters.
+- Limit excessively long **campaign durations**, as they may dilute initial enthusiasm.
+- The most notable categories include: **Photography**, **Games**, and **Comics**.
